@@ -1,6 +1,7 @@
 # User-Profiling-and-Segmentation
 This project performs user profiling and segmentation using Python, leveraging data exploration, clustering, and visualization techniques to create targeted marketing strategies.
 ## **Project Title: User Profiling and Segmentation**
+**Dataset**: Website Performance: Case Study from STATSO
 
 **Overview**
 
